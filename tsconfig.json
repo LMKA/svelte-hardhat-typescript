@@ -1,0 +1,6 @@
+{
+  "extends": "@tsconfig/svelte/tsconfig.json",
+  "files": ["./hardhat.config.ts"],
+  "include": ["src/**/*", "./scripts", "./test", "./typechain", "./typechain-types"],
+  "exclude": ["node_modules/*", "public/*"],
+}

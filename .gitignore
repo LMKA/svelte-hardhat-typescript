@@ -1,0 +1,21 @@
+# Editor files
+.vscode
+
+# Install files
+node_modules
+
+# Env files
+.env
+
+# Tests related files
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# svelte files
+public
