@@ -12,11 +12,11 @@ It is derived from [sveltejs/template](https://github.com/sveltejs/template) and
 
 ### Setup
 
-To create a new project based on this template using degit:
+Clone or fork the repo :
 
 
 ```bash
-npx degit LMKA/svelte-hardhat-typescript
+git clone https://github.com/LMKA/svelte-hardhat-typescript.git
 cd svelte-hardhat-typescript
 ```
 
